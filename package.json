@@ -1,8 +1,8 @@
 {
-  "name": "Happpy-app",
+  "name": "find-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Robert1211.github.io/Happpy-app",
+  "homepage": "http://Robert1211.github.io/find-app",
   "dependencies": {
     "axios": "^0.18.0",
     "deploy": "^1.0.3",
